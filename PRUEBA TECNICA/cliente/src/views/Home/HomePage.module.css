@@ -1,0 +1,33 @@
+.main{
+    height: 34.15rem;
+}
+
+.Contenedor{
+    float: left;
+    margin: 5%;
+    height: 250px;
+    width: 180px;
+}
+
+.Carta{
+    background-color: rgb(22, 22, 22);
+    background-image: url('../../assets/placeholder.png');
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.LinkCarta{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+
+.Texto{
+    display: inline;
+}

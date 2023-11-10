@@ -1,0 +1,45 @@
+.main{
+   background-color: rgb(26, 26, 26);
+   padding: 3%;
+   color: lightgray;
+}
+
+.seleccion{
+   box-sizing: border-box;
+}
+
+.seleccion li{
+   float: left;
+   list-style: none;
+   margin: 0 1%;
+   border-left: 1px solid black;
+   padding: 0 1%;
+   text-align: center;
+}
+
+.copyright{
+   clear: both;
+   margin: 3% 2%;
+}
+
+.logos{
+   display: inline-block;
+   width: 40%;
+}
+
+.logos svg{
+   margin: 0 4%;
+   height: 30px;
+   width: 30px;
+}
+
+.platform{
+   float: right;
+   width: 30%;
+}
+
+.platform svg{
+   height: 40px;
+   margin: 0 2%;
+   float: right;
+}
